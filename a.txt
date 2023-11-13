@@ -16,3 +16,5 @@ commit 12
 
 release
 fix for release
+
+feature 2
