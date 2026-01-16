@@ -1,2 +1,2 @@
-다 지운다
-commit 1
+commit 1 내용 지운다
+commit 2
