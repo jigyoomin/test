@@ -1,20 +1,2 @@
-test1
-test2
-test3
-test4 from branch/test1
-1
-2
-8
-10
-
-commit 12
-13
-
-
-22
-33
-
-release
-fix for release
-
-feature 2
+commit 1 내용 지운다
+commit 2
